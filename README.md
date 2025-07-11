@@ -1,5 +1,7 @@
 # Unity 3D Clock – Learning Project & Tutorial
 
+![simple_clock](images/clock.gif)
+
 This is a learning project based on Jasper Flick’s [Catlike Coding Unity tutorials](https://catlikecoding.com/unity/tutorials/).
 This project is a part of my Unity learning journey, focused on understanding **basic GameObject manipulation** and **C# scripting**.  
 It implements a working **3D analog clock** in Unity that shows the current system time using rotating clock hands.
